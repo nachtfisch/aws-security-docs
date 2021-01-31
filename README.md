@@ -19,12 +19,13 @@ GCP Pro Prep
 https://www.linkedin.com/pulse/how-i-passed-google-professional-cloud-architect-exam-khan/
 
 
-Open questions:
+Open topics:
 
-EMR - general setup 
-Spot instances - allocation strategy and rebalancing
-EC2 dedicated hosting
-Storage gateway
+* EMR - general setup 
+* Spot instances - allocation strategy and rebalancing
+* EC2 dedicated hosting and changing
+* Storage gateway - types and use cases
+* SQS - details
 
 Allocation strategies in Auto Scaling groups help you to provision your target capacity without the need to manually look for the Spot Instance pools with spare capacity. AWS recommends using the capacity optimized strategy because this strategy automatically provisions instances from the most-available Spot Instance pools. You can also take advantage of the capacity optimized allocation strategy in Spot Fleet. Because your Spot Instance capacity is sourced from pools with optimal capacity, this decreases the possibility that your Spot Instances are reclaimed. Reference: Best practices for EC2 Spot.
 
