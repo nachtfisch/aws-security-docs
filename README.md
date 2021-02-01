@@ -14,10 +14,10 @@ AWS Pro Prep
 
 https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exam-glenn-richard-bech/
 
+Reinvent videos
+
+https://youtube.com/playlist?list=PLWOdWLqFC9RiQs-GT4tkt4GcXeFJfkt20
 GCP Pro Prep
-
-https://www.linkedin.com/pulse/how-i-passed-google-professional-cloud-architect-exam-khan/
-
 
 Open topics:
 
