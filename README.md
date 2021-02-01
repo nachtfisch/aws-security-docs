@@ -23,9 +23,16 @@ Open topics:
 
 * EMR - general setup 
 * Spot instances - allocation strategy and rebalancing
-* EC2 dedicated hosting and changing
+* EC2 dedicated hosting and changing, limits https://docs.aws.amazon.com/general/latest/gr/aws_service_limits.html#limits_ec2 https://docs.aws.amazon.com/general/latest/gr/ec2-service.html
 * Storage gateway - types and use cases
-* SQS - details
+* SQS - details, cloud watch metrics (backlog per instance)
+* ENI attachment https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-eni.html
+* AWS DR patterns
+* Restore Glacier to S3
+* Launch templates https://docs.aws.amazon.com/autoscaling/ec2/userguide/LaunchTemplates.html
+* EMR Dynamo DB https://docs.aws.amazon.com/emr/latest/ReleaseGuide/EMRforDynamoDB.html
+* Kinesis - Analytics vs Straems https://docs.aws.amazon.com/solutions/latest/real-time-iot-device-monitoring-with-kinesis/overview.html
+* Direct Connect vs Direct Gateway - https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect.html https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/network-to-amazon-vpc-connectivity-options.html
 
 Allocation strategies in Auto Scaling groups help you to provision your target capacity without the need to manually look for the Spot Instance pools with spare capacity. AWS recommends using the capacity optimized strategy because this strategy automatically provisions instances from the most-available Spot Instance pools. You can also take advantage of the capacity optimized allocation strategy in Spot Fleet. Because your Spot Instance capacity is sourced from pools with optimal capacity, this decreases the possibility that your Spot Instances are reclaimed. Reference: Best practices for EC2 Spot.
 
