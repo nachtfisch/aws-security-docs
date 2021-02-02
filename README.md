@@ -21,6 +21,9 @@ https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exa
 Reinvent videos
 
 https://youtube.com/playlist?list=PLWOdWLqFC9RiQs-GT4tkt4GcXeFJfkt20
+
+https://www.youtube.com/watch?v=VR_4209ewIo&ab_channel=AmazonWebServices - Compliance as Code
+
 GCP Pro Prep
 
 Open topics:
