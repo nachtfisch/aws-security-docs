@@ -8,6 +8,8 @@ https://duo.com/blog/introducing-cloudmapper-an-aws-visualization-tool
 
 https://summitroute.com/blog/2018/06/18/how_to_inventory_aws_accounts/
 
+https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L55iU1nC0WY04D2xffH/Be%20careful,%20AWS%20Config%20can%20be%20an%20*expensive*%20service
+
 AWS VAPT and Patch managment
 
 AWS Pro Prep
