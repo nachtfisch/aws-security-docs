@@ -12,6 +12,8 @@ https://acloud.guru/forums/aws-certified-security-specialty/discussion/-L55iU1nC
 
 AWS VAPT and Patch managment
 
+https://tmobile.github.io/pacbot/
+
 AWS Pro Prep
 
 https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exam-glenn-richard-bech/
