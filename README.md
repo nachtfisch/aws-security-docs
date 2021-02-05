@@ -17,6 +17,7 @@ https://tmobile.github.io/pacbot/
 AWS Pro Prep
 
 https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exam-glenn-richard-bech/
+https://www.linkedin.com/pulse/framework-tackle-aws-solutions-architect-professional-castaneda/?articleId=6660642658538663936
 
 Reinvent videos
 
