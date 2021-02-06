@@ -21,7 +21,7 @@ https://www.linkedin.com/pulse/framework-tackle-aws-solutions-architect-professi
 
 * BGP routing
 * Hosted zones, internal vs external
-* SNI, Cloudfront DNS
+* SNI, Cloudfront TLS/SSL, SNI alternative
 
 Reinvent videos
 
