@@ -19,6 +19,8 @@ AWS Pro Prep
 https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exam-glenn-richard-bech/
 https://www.linkedin.com/pulse/framework-tackle-aws-solutions-architect-professional-castaneda/?articleId=6660642658538663936
 
+* BGP routing
+
 Reinvent videos
 
 https://youtube.com/playlist?list=PLWOdWLqFC9RiQs-GT4tkt4GcXeFJfkt20
