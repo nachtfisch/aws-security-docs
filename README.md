@@ -20,6 +20,7 @@ https://www.linkedin.com/pulse/how-i-passed-aws-certified-solution-architect-exa
 https://www.linkedin.com/pulse/framework-tackle-aws-solutions-architect-professional-castaneda/?articleId=6660642658538663936
 
 * BGP routing
+* Hosted zones, internal vs external
 
 Reinvent videos
 
